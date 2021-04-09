@@ -1,0 +1,15 @@
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/Penjahit.deps.json
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/Penjahit.runtimeconfig.json
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/Penjahit.runtimeconfig.dev.json
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/Penjahit.dll
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/ref/Penjahit.dll
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/bin/Debug/net5.0/Penjahit.pdb
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.csprojAssemblyReference.cache
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.AssemblyInfoInputs.cache
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.AssemblyInfo.cs
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.csproj.CoreCompileInputs.cache
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.dll
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/ref/Penjahit.dll
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.pdb
+/Users/aan/Documents/Semester 2/PBO/Penjahit/Penjahit/obj/Debug/net5.0/Penjahit.genruntimeconfig.cache
